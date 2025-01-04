@@ -1,1 +1,1 @@
-# Dimensionality-reduction-techniquestechniques
+# Dimensionality-reduction-techniques
